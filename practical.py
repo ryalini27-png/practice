@@ -1,4 +1,4 @@
-if 1==5:
-  print("hai")
-else:
-  print("hello")
+s=hello
+s1=s[::-1]
+if s==s1:
+  print("yalini")
